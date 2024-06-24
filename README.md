@@ -1,5 +1,7 @@
 # Amazon Prime Video Dashboard
 
+![amazon-prime-video-e7828eac13f74731bfeeb005f809c82e](https://github.com/JaiBhatia19/London-Bike-Rides-Dashboard/assets/143343337/b08ae244-0fdc-489f-b949-f16d31806ce5)
+
 ## Project Overview
 This project involves creating an interactive Tableau dashboard to analyze Amazon Prime Video content up to mid-2021. The dataset includes approximately 10,000 movies and TV shows and is sourced from Kaggle.
 
