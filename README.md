@@ -7,7 +7,6 @@ This project involves creating an interactive Tableau dashboard to analyze Amazo
 The dataset used for this project is available on Kaggle: [Amazon Prime Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows).
 
 ## Tools and Technologies
-- Python
 - Tableau
 
 ## Additional Files
