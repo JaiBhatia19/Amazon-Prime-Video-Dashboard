@@ -10,8 +10,9 @@ The dataset used for this project is available on Kaggle: [Amazon Prime Movies a
 - Python
 - Tableau
 
-## Data Preprocessing
-The raw data is preprocessed using Python to clean and transform it for visualization.
+## Additional Files
+- **Radial Bar Chart Values:** A text file containing values for path size and degrees.
+- **Prime Video Logo:** A PNG image used in the dashboard.
 
 ## Tableau Dashboard
 The final visualization is created using Tableau and includes multiple interactive charts and text sheets to provide a comprehensive analysis of Amazon Prime Video content.
